@@ -1,9 +1,0 @@
-{
-  "runtimeOptions": {
-    "tfm": "netcoreapp3.0",
-    "framework": {
-      "name": "Microsoft.DesktopUI.App",
-      "version": "3.0.0-alpha-26921-3"
-    }
-  }
-}
